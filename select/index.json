@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "Bad Entertainment",
+  "base_artist": "Fukase",
+  "createdAt": "2026-01-06T18:21:09.726945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Entertainment (feat. Milkie Way)",
+      "artist": "Trash Boat feat. Milkie Way",
+      "has_synced": true,
+      "path": "select/01_Bad_Entertainment_(feat._Milkie_Way)_Trash_Boat_feat._Milkie_Way.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Entertainment",
+      "artist": "Trash Boat",
+      "has_synced": true,
+      "path": "select/02_Bad_Entertainment_Trash_Boat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Entertainment (feat. Milkie Way)",
+      "artist": "Trash Boat",
+      "has_synced": true,
+      "path": "select/03_Bad_Entertainment_(feat._Milkie_Way)_Trash_Boat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Entertainment",
+      "artist": "Trash Boat feat. Milkie Way",
+      "has_synced": true,
+      "path": "select/04_Bad_Entertainment_Trash_Boat_feat._Milkie_Way.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Entertainment",
+      "artist": "Fukase",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Entertainment_Fukase.txt"
+    }
+  ]
+}
